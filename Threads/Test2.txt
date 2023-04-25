@@ -1,0 +1,724 @@
+Time: 0
+Waiting clients: (ID: 0, Service time: 10, Arrival Time: 1) (ID: 2, Service time: 11, Arrival Time: 1) (ID: 4, Service time: 10, Arrival Time: 1) (ID: 8, Service time: 8, Arrival Time: 1) (ID: 21, Service time: 9, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 20, Service time: 34, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+Server 0:
+
+Server 1:
+
+Server 2:
+
+Server 3:
+
+Server 4:
+
+Time: 1
+Waiting clients: (ID: 12, Service time: 26, Arrival Time: 2) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 20, Service time: 34, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+Server 0:(ID: 0, Service time: 10, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) 
+
+Server 1:(ID: 2, Service time: 11, Arrival Time: 1) 
+
+Server 2:(ID: 4, Service time: 10, Arrival Time: 1) 
+
+Server 3:(ID: 8, Service time: 8, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) 
+
+Server 4:(ID: 21, Service time: 9, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) 
+
+Time: 2
+Waiting clients: (ID: 1, Service time: 26, Arrival Time: 3) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 20, Service time: 34, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+Server 0:(ID: 0, Service time: 9, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) 
+
+Server 1:(ID: 2, Service time: 10, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) 
+
+Server 2:(ID: 4, Service time: 9, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) 
+
+Server 3:(ID: 8, Service time: 7, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) 
+
+Server 4:(ID: 21, Service time: 8, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) 
+
+Time: 3
+Waiting clients: (ID: 10, Service time: 38, Arrival Time: 4) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 20, Service time: 34, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+Server 0:(ID: 0, Service time: 8, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) 
+
+Server 1:(ID: 2, Service time: 9, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) 
+
+Server 2:(ID: 4, Service time: 8, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) 
+
+Server 3:(ID: 8, Service time: 6, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) 
+
+Server 4:(ID: 21, Service time: 7, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) 
+
+Time: 4
+Waiting clients: (ID: 9, Service time: 19, Arrival Time: 5) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 20, Service time: 34, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+Server 0:(ID: 0, Service time: 7, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) 
+
+Server 1:(ID: 2, Service time: 8, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) 
+
+Server 2:(ID: 4, Service time: 7, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) 
+
+Server 3:(ID: 8, Service time: 5, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) 
+
+Server 4:(ID: 21, Service time: 6, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) 
+
+Time: 5
+Waiting clients: (ID: 3, Service time: 38, Arrival Time: 6) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 20, Service time: 34, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+Server 0:(ID: 0, Service time: 6, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) 
+
+Server 1:(ID: 2, Service time: 7, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) 
+
+Server 2:(ID: 4, Service time: 6, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) 
+
+Server 3:(ID: 8, Service time: 4, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) 
+
+Server 4:(ID: 21, Service time: 5, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) 
+
+Time: 6
+Waiting clients: 
+Server 0:(ID: 0, Service time: 5, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 2, Service time: 6, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 4, Service time: 5, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 8, Service time: 3, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 21, Service time: 4, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 7
+Waiting clients: 
+Server 0:(ID: 0, Service time: 4, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 2, Service time: 5, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 4, Service time: 4, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 8, Service time: 2, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 21, Service time: 3, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 8
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 2, Service time: 4, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 4, Service time: 3, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 8, Service time: 1, Arrival Time: 1) (ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 21, Service time: 2, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 9
+Waiting clients: 
+Server 0:(ID: 0, Service time: 2, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 2, Service time: 3, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 4, Service time: 2, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 16, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 21, Service time: 1, Arrival Time: 1) (ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 10
+Waiting clients: 
+Server 0:(ID: 0, Service time: 1, Arrival Time: 1) (ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 2, Service time: 2, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 4, Service time: 1, Arrival Time: 1) (ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 15, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 26, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 11
+Waiting clients: 
+Server 0:(ID: 37, Service time: 8, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 2, Service time: 1, Arrival Time: 1) (ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 26, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 14, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 25, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 12
+Waiting clients: 
+Server 0:(ID: 37, Service time: 7, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 22, Service time: 6, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 25, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 13, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 24, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 13
+Waiting clients: 
+Server 0:(ID: 37, Service time: 6, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 22, Service time: 5, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 24, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 12, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 23, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 14
+Waiting clients: 
+Server 0:(ID: 37, Service time: 5, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 22, Service time: 4, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 23, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 11, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 22, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 15
+Waiting clients: 
+Server 0:(ID: 37, Service time: 4, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 22, Service time: 3, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 22, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 10, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 21, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 16
+Waiting clients: 
+Server 0:(ID: 37, Service time: 3, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 22, Service time: 2, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 21, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 9, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 20, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 17
+Waiting clients: 
+Server 0:(ID: 37, Service time: 2, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 22, Service time: 1, Arrival Time: 2) (ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 20, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 8, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 19, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 18
+Waiting clients: 
+Server 0:(ID: 37, Service time: 1, Arrival Time: 1) (ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 25, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 19, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 7, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 18, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 19
+Waiting clients: 
+Server 0:(ID: 33, Service time: 20, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 24, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 18, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 6, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 17, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 20
+Waiting clients: 
+Server 0:(ID: 33, Service time: 19, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 23, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 17, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 5, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 16, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 21
+Waiting clients: 
+Server 0:(ID: 33, Service time: 18, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 22, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 16, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 4, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 15, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 22
+Waiting clients: 
+Server 0:(ID: 33, Service time: 17, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 21, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 15, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 3, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 14, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 23
+Waiting clients: 
+Server 0:(ID: 33, Service time: 16, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 20, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 14, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 2, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 13, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 24
+Waiting clients: 
+Server 0:(ID: 33, Service time: 15, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 19, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 13, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 25, Service time: 1, Arrival Time: 1) (ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 12, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 25
+Waiting clients: 
+Server 0:(ID: 33, Service time: 14, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 18, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 12, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 14, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 11, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 26
+Waiting clients: 
+Server 0:(ID: 33, Service time: 13, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 17, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 11, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 13, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 10, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 27
+Waiting clients: 
+Server 0:(ID: 33, Service time: 12, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 16, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 10, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 12, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 9, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 28
+Waiting clients: 
+Server 0:(ID: 33, Service time: 11, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 15, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 9, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 11, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 8, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 29
+Waiting clients: 
+Server 0:(ID: 33, Service time: 10, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 14, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 8, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 10, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 7, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 30
+Waiting clients: 
+Server 0:(ID: 33, Service time: 9, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 13, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 7, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 9, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 6, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 31
+Waiting clients: 
+Server 0:(ID: 33, Service time: 8, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 12, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 6, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 8, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 5, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 32
+Waiting clients: 
+Server 0:(ID: 33, Service time: 7, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 11, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 5, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 7, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 4, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 33
+Waiting clients: 
+Server 0:(ID: 33, Service time: 6, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 10, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 4, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 6, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 3, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 34
+Waiting clients: 
+Server 0:(ID: 33, Service time: 5, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 9, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 3, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 5, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 2, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 35
+Waiting clients: 
+Server 0:(ID: 33, Service time: 4, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 8, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 2, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 4, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 36, Service time: 1, Arrival Time: 1) (ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 36
+Waiting clients: 
+Server 0:(ID: 33, Service time: 3, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 7, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 12, Service time: 1, Arrival Time: 2) (ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 3, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 42, Service time: 3, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 37
+Waiting clients: 
+Server 0:(ID: 33, Service time: 2, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 6, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 29, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 2, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 42, Service time: 2, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 38
+Waiting clients: 
+Server 0:(ID: 33, Service time: 1, Arrival Time: 2) (ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 5, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 28, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 34, Service time: 1, Arrival Time: 2) (ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 42, Service time: 1, Arrival Time: 2) (ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 39
+Waiting clients: 
+Server 0:(ID: 1, Service time: 26, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 4, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 27, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 36, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 6, Service time: 6, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 40
+Waiting clients: 
+Server 0:(ID: 1, Service time: 25, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 3, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 26, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 35, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 6, Service time: 5, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 41
+Waiting clients: 
+Server 0:(ID: 1, Service time: 24, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 2, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 25, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 34, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 6, Service time: 4, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 42
+Waiting clients: 
+Server 0:(ID: 1, Service time: 23, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 32, Service time: 1, Arrival Time: 2) (ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 24, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 33, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 6, Service time: 3, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 43
+Waiting clients: 
+Server 0:(ID: 1, Service time: 22, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 18, Service time: 3, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 23, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 32, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 6, Service time: 2, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 44
+Waiting clients: 
+Server 0:(ID: 1, Service time: 21, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 18, Service time: 2, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 22, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 31, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 6, Service time: 1, Arrival Time: 3) (ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 45
+Waiting clients: 
+Server 0:(ID: 1, Service time: 20, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 18, Service time: 1, Arrival Time: 3) (ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 21, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 30, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 32, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 46
+Waiting clients: 
+Server 0:(ID: 1, Service time: 19, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 15, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 20, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 29, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 31, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 47
+Waiting clients: 
+Server 0:(ID: 1, Service time: 18, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 14, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 19, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 28, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 30, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 48
+Waiting clients: 
+Server 0:(ID: 1, Service time: 17, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 13, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 18, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 27, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 29, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 49
+Waiting clients: 
+Server 0:(ID: 1, Service time: 16, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 12, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 17, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 26, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 28, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 50
+Waiting clients: 
+Server 0:(ID: 1, Service time: 15, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 11, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 16, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 25, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 27, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 51
+Waiting clients: 
+Server 0:(ID: 1, Service time: 14, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 10, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 15, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 24, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 26, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 52
+Waiting clients: 
+Server 0:(ID: 1, Service time: 13, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 9, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 14, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 23, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 25, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 53
+Waiting clients: 
+Server 0:(ID: 1, Service time: 12, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 8, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 13, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 22, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 24, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 54
+Waiting clients: 
+Server 0:(ID: 1, Service time: 11, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 7, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 12, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 21, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 23, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 55
+Waiting clients: 
+Server 0:(ID: 1, Service time: 10, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 6, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 11, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 20, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 22, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 56
+Waiting clients: 
+Server 0:(ID: 1, Service time: 9, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 5, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 10, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 19, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 21, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 57
+Waiting clients: 
+Server 0:(ID: 1, Service time: 8, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 4, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 9, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 18, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 20, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 58
+Waiting clients: 
+Server 0:(ID: 1, Service time: 7, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 3, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 8, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 17, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 19, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+Time: 59
+Waiting clients: 
+Server 0:(ID: 1, Service time: 6, Arrival Time: 3) (ID: 39, Service time: 7, Arrival Time: 3) (ID: 11, Service time: 4, Arrival Time: 4) (ID: 16, Service time: 31, Arrival Time: 4) (ID: 46, Service time: 17, Arrival Time: 4) (ID: 17, Service time: 22, Arrival Time: 5) (ID: 7, Service time: 38, Arrival Time: 6) (ID: 35, Service time: 3, Arrival Time: 6) 
+
+Server 1:(ID: 31, Service time: 2, Arrival Time: 3) (ID: 38, Service time: 8, Arrival Time: 3) (ID: 10, Service time: 38, Arrival Time: 4) (ID: 47, Service time: 26, Arrival Time: 4) (ID: 49, Service time: 34, Arrival Time: 5) (ID: 20, Service time: 34, Arrival Time: 6) 
+
+Server 2:(ID: 44, Service time: 7, Arrival Time: 2) (ID: 45, Service time: 35, Arrival Time: 3) (ID: 30, Service time: 12, Arrival Time: 4) (ID: 9, Service time: 19, Arrival Time: 5) (ID: 40, Service time: 32, Arrival Time: 5) (ID: 19, Service time: 22, Arrival Time: 6) (ID: 43, Service time: 23, Arrival Time: 6) 
+
+Server 3:(ID: 5, Service time: 16, Arrival Time: 3) (ID: 14, Service time: 36, Arrival Time: 4) (ID: 48, Service time: 13, Arrival Time: 4) (ID: 23, Service time: 23, Arrival Time: 5) (ID: 13, Service time: 24, Arrival Time: 6) (ID: 24, Service time: 8, Arrival Time: 6) (ID: 29, Service time: 8, Arrival Time: 6) 
+
+Server 4:(ID: 28, Service time: 18, Arrival Time: 3) (ID: 26, Service time: 27, Arrival Time: 4) (ID: 41, Service time: 18, Arrival Time: 4) (ID: 15, Service time: 15, Arrival Time: 5) (ID: 3, Service time: 38, Arrival Time: 6) (ID: 27, Service time: 37, Arrival Time: 6) 
+
+
+Peak Time: 6
+Average waiting time: 0.0
+Average service time: 0.0
