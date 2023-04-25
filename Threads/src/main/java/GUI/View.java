@@ -25,7 +25,7 @@ public class View extends JFrame {
         GridBagConstraints c = new GridBagConstraints();
         c.gridx = 0;
         c.gridy = 0;
-        c.anchor = GridBagConstraints.CENTER;
+        c.anchor = GridBagConstraints.WEST;
         c.insets = new Insets(5, 5, 5, 5);
 
         // Add input fields

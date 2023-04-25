@@ -3,6 +3,7 @@ package Model;
 public class Task implements Comparable{
     private int ID;
     private int arrivalTime;
+    private int waitingTime;
     private int serviceTime;
     public boolean sent;
 
@@ -25,7 +26,13 @@ public class Task implements Comparable{
     public int getServiceTime() {
         return this.serviceTime;
     }
+    public void setWaitTime(int waitTime) {
+        this.waitingTime = waitTime;
+    }
 
+    public int getWaitTime() {
+        return waitingTime;
+    }
     public void setServiceTime(int serviceTime) {
         this.serviceTime = serviceTime;
     }

@@ -74,7 +74,6 @@ public class SimulationManager extends Thread {
         Collections.sort(result);
         return result;
     }
-
     public String clientsToString() {
         String result = new String();
         for (Task c : this.getGeneratedClients()) {
@@ -125,7 +124,21 @@ public class SimulationManager extends Thread {
         showStatistics(frequency,d,d1);
         // updateLogFile(initialSize, waiting, service, max);
     }
-
+    public String toString() {
+        String result;
+        result = "Clients: " + numberOfClients + " Servers: " + numberOfServers + " Simulation time: " + timeLimit
+                + "\nMinimum arrival time: " + minArrivalTime + " Maximum arrival time: " + maxArrivalTime
+                + "\nMinimum service time: " + minProcessingTime + " Maximum service time: " + maxProcessingTime + "\n\n";
+        synchronized (this.generatedClients) {
+            for (Server s : scheduler.getServers()) {
+                result = result + "\nServer " + s.getServerID() + ":";
+                for (Task c : s.getClients())
+                    if (c.getServiceTime() != 0)
+                        result = result + "(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
+            }
+        }
+        return result;
+    }
     private void handleNewClients(int currentTime, ArrayList<Task> toBeRemoved, int[] frequency, int service, int waiting) {
         for (Task c : this.getGeneratedClients()) {
             if (c.getArrivalTime() == currentTime) {
@@ -190,7 +203,7 @@ public class SimulationManager extends Thread {
         }
     }
 
-    private void showStatistics(int[] frequency,double avgWaitingTime, double avgServiceTime) {
+            private void showStatistics(int[] frequency,double avgWaitingTime, double avgServiceTime) {
         synchronized (this) {
             int max = 0;
             for (int i = 0; i < frequency.length; i++)
@@ -217,21 +230,5 @@ public class SimulationManager extends Thread {
                 e.printStackTrace();
             }
         }
-    }
-
-    public String toString() {
-        String result;
-        result = "Clients: " + numberOfClients + " Servers: " + numberOfServers + " Simulation time: " + timeLimit
-                + "\nMinimum arrival time: " + minArrivalTime + " Maximum arrival time: " + maxArrivalTime
-                + "\nMinimum service time: " + minProcessingTime + " Maximum service time: " + maxProcessingTime + "\n\n";
-        synchronized (this.generatedClients) {
-            for (Server s : scheduler.getServers()) {
-                result = result + "\nServer " + s.getServerID() + ":";
-                for (Task c : s.getClients())
-                    if (c.getServiceTime() != 0)
-                        result = result + "(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
-            }
-        }
-        return result;
     }
 }
