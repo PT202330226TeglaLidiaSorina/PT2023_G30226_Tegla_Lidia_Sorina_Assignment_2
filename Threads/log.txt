@@ -1,0 +1,76 @@
+Time: 0
+Waiting clients: (ID: 1, Service time: 4, Arrival Time: 2) (ID: 3, Service time: 6, Arrival Time: 2) (ID: 0, Service time: 3, Arrival Time: 3) (ID: 2, Service time: 3, Arrival Time: 3) 
+Server 0:
+
+Server 1:
+
+Time: 1
+Waiting clients: (ID: 1, Service time: 4, Arrival Time: 2) (ID: 3, Service time: 6, Arrival Time: 2) (ID: 0, Service time: 3, Arrival Time: 3) (ID: 2, Service time: 3, Arrival Time: 3) 
+Server 0:
+
+Server 1:
+
+Time: 2
+Waiting clients: (ID: 0, Service time: 3, Arrival Time: 3) (ID: 2, Service time: 3, Arrival Time: 3) 
+Server 0:(ID: 1, Service time: 4, Arrival Time: 2) 
+
+Server 1:(ID: 3, Service time: 6, Arrival Time: 2) 
+
+Time: 3
+Waiting clients: 
+Server 0:(ID: 1, Service time: 3, Arrival Time: 2) (ID: 0, Service time: 3, Arrival Time: 3) 
+
+Server 1:(ID: 3, Service time: 5, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 3) 
+
+Time: 4
+Waiting clients: 
+Server 0:(ID: 1, Service time: 2, Arrival Time: 2) (ID: 0, Service time: 3, Arrival Time: 3) 
+
+Server 1:(ID: 3, Service time: 4, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 3) 
+
+Time: 5
+Waiting clients: 
+Server 0:(ID: 1, Service time: 1, Arrival Time: 2) (ID: 0, Service time: 3, Arrival Time: 3) 
+
+Server 1:(ID: 3, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 3) 
+
+Time: 6
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 3) 
+
+Server 1:(ID: 3, Service time: 2, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 3) 
+
+Time: 7
+Waiting clients: 
+Server 0:(ID: 0, Service time: 2, Arrival Time: 3) 
+
+Server 1:(ID: 3, Service time: 1, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 3) 
+
+Time: 8
+Waiting clients: 
+Server 0:(ID: 0, Service time: 1, Arrival Time: 3) 
+
+Server 1:(ID: 2, Service time: 3, Arrival Time: 3) 
+
+Time: 9
+Waiting clients: 
+Server 0:
+
+Server 1:(ID: 2, Service time: 2, Arrival Time: 3) 
+
+Time: 10
+Waiting clients: 
+Server 0:
+
+Server 1:(ID: 2, Service time: 1, Arrival Time: 3) 
+
+Time: 11
+Waiting clients: 
+Server 0:
+
+Server 1:
+
+
+Peak Time: 3
+Average waiting time: 0.0
+Average service time: 0.0
