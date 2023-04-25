@@ -7,7 +7,7 @@ public class Task implements Comparable{
     private int serviceTime;
     public boolean sent;
 
-    public Task(int ID, int arrivalTime, int serviceTime) {
+    public Task(int ID, int serviceTime, int arrivalTime) {
         this.ID = ID;
         this.arrivalTime = arrivalTime;
         this.serviceTime = serviceTime;

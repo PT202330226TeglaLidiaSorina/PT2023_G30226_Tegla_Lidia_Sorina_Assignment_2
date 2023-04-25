@@ -182,7 +182,7 @@ public class SimulationManager extends Thread {
     private void updateLogFile(int currentTime) {
         FileWriter myWriter = null;
         try {
-            myWriter = new FileWriter("log.txt", true);
+            myWriter = new FileWriter("Test3.txt", true);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -222,7 +222,7 @@ public class SimulationManager extends Thread {
                     + "\nAverage waiting time: " + avgWaitingTime+"\nAverage service time: " + avgServiceTime + "\n" );
             FileWriter myWriter = null;
             try {
-                myWriter = new FileWriter("log.txt", true);
+                myWriter = new FileWriter("Test3.txt", true);
             } catch (IOException e) {
                 e.printStackTrace();
             }
