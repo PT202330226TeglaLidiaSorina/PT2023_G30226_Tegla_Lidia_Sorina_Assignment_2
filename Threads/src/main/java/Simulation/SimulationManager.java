@@ -85,7 +85,7 @@ public class SimulationManager extends Thread {
         String result = new String();
         for (Task c : this.getGeneratedClients()) {
             if (c.sent == false)
-                result = result + "(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
+                result = result + "\n(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
         }
 
         return result;
@@ -97,7 +97,7 @@ public class SimulationManager extends Thread {
             result = result + "\nServer " + s.getServerID() + ":";
             for (Task c : s.getClients())
                 if (c.getServiceTime() != 0) {
-                    result = result + "(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
+                    result = result + "\n(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
 
                 }
             result = result + "\n";
@@ -138,7 +138,7 @@ public class SimulationManager extends Thread {
                 result = result + "\nServer " + s.getServerID() + ":";
                 for (Task c : s.getClients())
                     if (c.getServiceTime() != 0)
-                        result = result + "(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
+                        result = result + "\n(ID: " + c.getID() + ", Service time: " + c.getServiceTime() + ", Arrival Time: " + c.getArrivalTime() + ") ";
             }
         }
         return result;
