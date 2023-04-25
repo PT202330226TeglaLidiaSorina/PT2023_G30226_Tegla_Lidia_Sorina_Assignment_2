@@ -19,7 +19,14 @@ public class SimulationManager extends Thread {
     public int numberOfServers;
     public int numberOfClients;
     public int timeLimit;
+    public int max=Integer.MIN_VALUE;
+    public int maxClients=Integer.MIN_VALUE;
 
+    public double avgWaitingTime=0.0;
+    public double avgServiceTime=0.0;
+
+    public int waiting=0;
+    public int service=0;
     public AtomicInteger simulationTime;
     private Scheduler scheduler;
     public View view;
@@ -102,26 +109,22 @@ public class SimulationManager extends Thread {
     public void run() {
         ArrayList<Task> toBeRemoved = new ArrayList<>();
         int[] frequency = new int[5000];
-        int service = 0;
-        int waiting = 0;
-        double d = 0.0;
-        double d1 = 0.0;
         int currentTime = 0;
         int initialSize = this.getGeneratedClients().size();
         this.scheduler = new Scheduler(numberOfServers, SelectionPolicy.SHORTEST_TIME, this);
         while (currentTime < timeLimit) {
-            handleNewClients(currentTime, toBeRemoved, frequency, service, waiting);
+            handleNewClients(currentTime, toBeRemoved, frequency);
             decrementServiceTime(currentTime);
             updateGUI(currentTime, initialSize);
-            d = (double)(waiting) / initialSize;
-            d1 = (double)(service) / initialSize;
+            avgWaitingTime = (double)(waiting) / initialSize;
+            avgServiceTime = (double)(service) / initialSize;
             updateLogFile(currentTime);
             sleepForOneSecond();
-
+            peakHour(currentTime);
             currentTime = simulationTime.incrementAndGet();
         }
 
-        showStatistics(frequency,d,d1);
+        showStatistics(frequency,avgWaitingTime,avgServiceTime);
         // updateLogFile(initialSize, waiting, service, max);
     }
     public String toString() {
@@ -130,6 +133,7 @@ public class SimulationManager extends Thread {
                 + "\nMinimum arrival time: " + minArrivalTime + " Maximum arrival time: " + maxArrivalTime
                 + "\nMinimum service time: " + minProcessingTime + " Maximum service time: " + maxProcessingTime + "\n\n";
         synchronized (this.generatedClients) {
+            result=result+"\nWaiting clients: " + this.clientsToString() ;
             for (Server s : scheduler.getServers()) {
                 result = result + "\nServer " + s.getServerID() + ":";
                 for (Task c : s.getClients())
@@ -139,7 +143,7 @@ public class SimulationManager extends Thread {
         }
         return result;
     }
-    private void handleNewClients(int currentTime, ArrayList<Task> toBeRemoved, int[] frequency, int service, int waiting) {
+    private void handleNewClients(int currentTime, ArrayList<Task> toBeRemoved, int[] frequency) {
         for (Task c : this.getGeneratedClients()) {
             if (c.getArrivalTime() == currentTime) {
                 frequency[c.getArrivalTime()] += 1;
@@ -194,6 +198,15 @@ public class SimulationManager extends Thread {
             e.printStackTrace();
         }
     }
+    private void peakHour(int currentTime){
+        for(Server s:scheduler.getServers()){
+            if(s.getCurrentNumberOfTasks()>maxClients)
+            {
+                max=currentTime;
+                maxClients=s.getCurrentNumberOfTasks();
+            }
+        }
+    }
 
     private void sleepForOneSecond() {
         try {
@@ -203,13 +216,8 @@ public class SimulationManager extends Thread {
         }
     }
 
-            private void showStatistics(int[] frequency,double avgWaitingTime, double avgServiceTime) {
+    private void showStatistics(int[] frequency,double avgWaitingTime, double avgServiceTime) {
         synchronized (this) {
-            int max = 0;
-            for (int i = 0; i < frequency.length; i++)
-                if (frequency[i] >= max)
-                    max = i;
-
             view.queues.setText(this + "\nPeak Time: " + max
                     + "\nAverage waiting time: " + avgWaitingTime+"\nAverage service time: " + avgServiceTime + "\n" );
             FileWriter myWriter = null;
